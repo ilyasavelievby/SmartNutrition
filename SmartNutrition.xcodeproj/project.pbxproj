@@ -15,7 +15,7 @@
 		DD9A377328AD9C640041C507 /* FoodModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DD9A377128AD9C640041C507 /* FoodModel.xcdatamodeld */; };
 		DD9A377528AD9DDD0041C507 /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9A377428AD9DDD0041C507 /* DataController.swift */; };
 		DD9A377928ADA2C30041C507 /* AddFoodView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9A377828ADA2C30041C507 /* AddFoodView.swift */; };
-		DD9A377B28ADAB800041C507 /* Time.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9A377A28ADAB800041C507 /* Time.swift */; };
+		DD9A377B28ADAB800041C507 /* TimeforMatting.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9A377A28ADAB800041C507 /* TimeforMatting.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,7 +28,7 @@
 		DD9A377228AD9C640041C507 /* FoodModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FoodModel.xcdatamodel; sourceTree = "<group>"; };
 		DD9A377428AD9DDD0041C507 /* DataController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = "<group>"; };
 		DD9A377828ADA2C30041C507 /* AddFoodView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddFoodView.swift; sourceTree = "<group>"; };
-		DD9A377A28ADAB800041C507 /* Time.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Time.swift; path = ../../../../../Documents/Time.swift; sourceTree = "<group>"; };
+		DD9A377A28ADAB800041C507 /* TimeforMatting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TimeforMatting.swift; path = ../../../../../Documents/TimeforMatting.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +101,7 @@
 		DD9A377728ADA2300041C507 /* Additionals */ = {
 			isa = PBXGroup;
 			children = (
-				DD9A377A28ADAB800041C507 /* Time.swift */,
+				DD9A377A28ADAB800041C507 /* TimeforMatting.swift */,
 			);
 			path = Additionals;
 			sourceTree = "<group>";
@@ -182,7 +182,7 @@
 				DD9A376328AD9B3D0041C507 /* SmartNutritionApp.swift in Sources */,
 				DD9A377328AD9C640041C507 /* FoodModel.xcdatamodeld in Sources */,
 				DD495A2128B6BC7F0018D04B /* EditFoodView.swift in Sources */,
-				DD9A377B28ADAB800041C507 /* Time.swift in Sources */,
+				DD9A377B28ADAB800041C507 /* TimeforMatting.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
